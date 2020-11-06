@@ -1,0 +1,11 @@
+C:\Users\lpurnoch\source\repos\CodeBreach\CodeBreach\obj\Debug\netcoreapp3.1\CodeBreach.csprojAssemblyReference.cache
+C:\Users\lpurnoch\source\repos\CodeBreach\CodeBreach\obj\Debug\netcoreapp3.1\CodeBreach.AssemblyInfoInputs.cache
+C:\Users\lpurnoch\source\repos\CodeBreach\CodeBreach\obj\Debug\netcoreapp3.1\CodeBreach.AssemblyInfo.cs
+C:\Users\lpurnoch\source\repos\CodeBreach\CodeBreach\bin\Debug\netcoreapp3.1\CodeBreach.exe
+C:\Users\lpurnoch\source\repos\CodeBreach\CodeBreach\bin\Debug\netcoreapp3.1\CodeBreach.deps.json
+C:\Users\lpurnoch\source\repos\CodeBreach\CodeBreach\bin\Debug\netcoreapp3.1\CodeBreach.runtimeconfig.json
+C:\Users\lpurnoch\source\repos\CodeBreach\CodeBreach\bin\Debug\netcoreapp3.1\CodeBreach.runtimeconfig.dev.json
+C:\Users\lpurnoch\source\repos\CodeBreach\CodeBreach\bin\Debug\netcoreapp3.1\CodeBreach.dll
+C:\Users\lpurnoch\source\repos\CodeBreach\CodeBreach\bin\Debug\netcoreapp3.1\CodeBreach.pdb
+C:\Users\lpurnoch\source\repos\CodeBreach\CodeBreach\obj\Debug\netcoreapp3.1\CodeBreach.dll
+C:\Users\lpurnoch\source\repos\CodeBreach\CodeBreach\obj\Debug\netcoreapp3.1\CodeBreach.pdb
